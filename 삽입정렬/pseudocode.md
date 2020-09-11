@@ -3,6 +3,7 @@
 - 의사코드
 
 ![삽입정렬-의사코드](https://user-images.githubusercontent.com/70448161/92952926-c0349080-f49b-11ea-9878-9413450057af.PNG)
+
 ----
 - 정렬방식
 
