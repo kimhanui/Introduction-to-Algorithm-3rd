@@ -1,4 +1,4 @@
-# Insertion Sorting pseudocode
+# Insertion Sorting
 ----
 - **의사코드**
 
