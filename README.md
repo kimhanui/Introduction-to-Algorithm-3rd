@@ -3,7 +3,7 @@ Introduction to Algorithm 3rd_(Thomas H. Cormen)
 ---
 - 책에 있는 내용 할 수 있는 선까지 공부할 예정
 - 의사코드는 C로 구현
-- 각 장마다 적어논 .md 파일의내용은 책의 판서를 참고하면서 작성했음
+- https://www.youtube.com/playlist?list=PL8B24C31197EC371C 참고
 
 ---
 
