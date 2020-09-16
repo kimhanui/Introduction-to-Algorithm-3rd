@@ -1,3 +1,4 @@
+// 4비트 이진수 더하기//
 #include <stdio.h>
 int main()
 {
