@@ -1,4 +1,4 @@
-# Introduction-to-Algorithm-3rd
+# Introduction-to-Algorithm-3rd 김하늬 데단해요~
 Introduction to Algorithm 3rd_(Thomas H. Cormen)
 ---
 - 책에 있는 내용 할 수 있는 선까지 공부할 예정
